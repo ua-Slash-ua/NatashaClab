@@ -1,0 +1,13 @@
+.idea
+#Дані аккаунтів
+accounts.json
+#Додаткові файли(функції)
+add_members.py
+br.html
+st.html
+#Списки платників
+list.xlsx
+list_2.xlsx
+#тестові скрипти
+test.py
+test_2.py

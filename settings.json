@@ -1,0 +1,4 @@
+{ "is_limit": true,
+  "limit_message": 20,
+  "skip_send": true
+}
