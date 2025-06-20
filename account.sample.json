@@ -1,0 +1,9 @@
+{
+  "Name Girl": {
+    "authorization": {
+      "ID": "ACCOUNT_ID",
+      "Password": "ACCOUNT_PASS"
+    },
+    "text": "Dear NAME <this was name or list phrase>, <TEXT FOR SEND>"
+  }
+}
